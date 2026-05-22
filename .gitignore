@@ -1,0 +1,13 @@
+# Macの隠しファイル
+.DS_Store
+
+# Pythonのキャッシュ
+__pycache__/
+
+# AIのモデルデータ（生成物）
+*.pth
+*.mlpackage/
+
+# Edax本体と、その重い定石データ
+mEdax-4.4-x64-modern
+data/
